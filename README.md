@@ -1,0 +1,1 @@
+This is a MERN-based project which allows you to sign-in and sign-up and stores all the details in the backend. JWT is used here for the authorization of the user, which reduces the loose ends of security and trust.
